@@ -1,0 +1,19 @@
+{
+  "name": "ANDECOIN Official",
+  "timestamp": "2026-01-04T00:00:00.000Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 11155111,
+      "address": "0x501AE6E853411360f91Fa9a0d2Cd13a1F490429A",
+      "name": "AndeCoin",
+      "symbol": "ANC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Alex170586/andecoin-assets/main/andecoin-logo-white.png"
+    }
+  ]
+}
